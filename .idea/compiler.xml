@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="example-auth-custom" />
+        <module name="example-module-services" />
+        <module name="example-module-ui" />
+        <module name="example-ui-feed-stepper-plugin" />
+        <module name="example-ui-get-file-processor-template" />
+        <module name="kylo-alerts-api" />
+        <module name="kylo-alerts-controller" />
+        <module name="kylo-alerts-core" />
+        <module name="kylo-alerts-model" />
+        <module name="kylo-audit-logging-api" />
+        <module name="kylo-audit-logging-controller" />
+        <module name="kylo-audit-logging-core" />
+        <module name="kylo-audit-logging-jpa" />
+        <module name="kylo-audit-logging-rest-model" />
+        <module name="kylo-classname-change-api" />
+        <module name="kylo-classname-change-core" />
+        <module name="kylo-cluster-manager-api" />
+        <module name="kylo-cluster-manager-core" />
+        <module name="kylo-commons-feed-util" />
+        <module name="kylo-commons-hive" />
+        <module name="kylo-commons-jdbc" />
+        <module name="kylo-commons-jpa" />
+        <module name="kylo-commons-rest-client" />
+        <module name="kylo-commons-rest-model" />
+        <module name="kylo-commons-scala-2.10" />
+        <module name="kylo-commons-scala-2.11" />
+        <module name="kylo-commons-scala-api" />
+        <module name="kylo-commons-security" />
+        <module name="kylo-commons-spark-1.6" />
+        <module name="kylo-commons-spark-2.0" />
+        <module name="kylo-commons-spark-api" />
+        <module name="kylo-commons-spark-repl" />
+        <module name="kylo-commons-spark-shell-api" />
+        <module name="kylo-commons-spark-shell-v1" />
+        <module name="kylo-commons-spark-shell-v2" />
+        <module name="kylo-commons-test" />
+        <module name="kylo-commons-test-persistence" />
+        <module name="kylo-commons-util" />
+        <module name="kylo-commons-velocity-api" />
+        <module name="kylo-commons-velocity-core" />
+        <module name="kylo-feed-manager-api" />
+        <module name="kylo-feed-manager-controller" />
+        <module name="kylo-feed-manager-core" />
+        <module name="kylo-feed-manager-nifi-cache-api" />
+        <module name="kylo-feed-manager-precondition-policy" />
+        <module name="kylo-feed-manager-precondition-rest-model" />
+        <module name="kylo-feed-manager-rest-model" />
+        <module name="kylo-feed-manager-service-api" />
+        <module name="kylo-field-policy-api" />
+        <module name="kylo-field-policy-controller" />
+        <module name="kylo-field-policy-core" />
+        <module name="kylo-field-policy-default" />
+        <module name="kylo-field-policy-rest-model" />
+        <module name="kylo-hadoop-authorization-api" />
+        <module name="kylo-hadoop-authorization-core" />
+        <module name="kylo-hadoop-authorization-ranger" />
+        <module name="kylo-hadoop-authorization-sentry" />
+        <module name="kylo-input-format-omniture" />
+        <module name="kylo-install-debian" />
+        <module name="kylo-install-rpm" />
+        <module name="kylo-install-tar" />
+        <module name="kylo-jira-rest-client" />
+        <module name="kylo-jms-service-activemq" />
+        <module name="kylo-jms-service-amazon-sqs" />
+        <module name="kylo-jms-service-api" />
+        <module name="kylo-job-repository-api" />
+        <module name="kylo-job-repository-controller" />
+        <module name="kylo-job-repository-core" />
+        <module name="kylo-job-repository-rest-model" />
+        <module name="kylo-kerberos-core" />
+        <module name="kylo-kerberos-test-client" />
+        <module name="kylo-metadata-api" />
+        <module name="kylo-metadata-core" />
+        <module name="kylo-metadata-jms" />
+        <module name="kylo-metadata-modeshape" />
+        <module name="kylo-metadata-persistence" />
+        <module name="kylo-metadata-rest-client-spring" />
+        <module name="kylo-metadata-rest-controller" />
+        <module name="kylo-metadata-rest-model" />
+        <module name="kylo-metadata-service-api" />
+        <module name="kylo-nifi-core-processors" />
+        <module name="kylo-nifi-core-service" />
+        <module name="kylo-nifi-core-service-api" />
+        <module name="kylo-nifi-core-service-nar" />
+        <module name="kylo-nifi-core-service-v1.2-nar" />
+        <module name="kylo-nifi-core-v1-nar" />
+        <module name="kylo-nifi-core-v1.2-nar" />
+        <module name="kylo-nifi-elasticsearch-processors" />
+        <module name="kylo-nifi-elasticsearch-v1-nar" />
+        <module name="kylo-nifi-flow-visitor-model" />
+        <module name="kylo-nifi-framework-api" />
+        <module name="kylo-nifi-framework-v1" />
+        <module name="kylo-nifi-hadoop-processors" />
+        <module name="kylo-nifi-hadoop-service" />
+        <module name="kylo-nifi-hadoop-service-api" />
+        <module name="kylo-nifi-hadoop-service-v1-nar" />
+        <module name="kylo-nifi-hadoop-service-v1.2-nar" />
+        <module name="kylo-nifi-hadoop-v1-nar" />
+        <module name="kylo-nifi-hadoop-v1.2-nar" />
+        <module name="kylo-nifi-merge-table-processor-v1" />
+        <module name="kylo-nifi-merge-table-processor-v1.2" />
+        <module name="kylo-nifi-provenance-constants" />
+        <module name="kylo-nifi-provenance-model" />
+        <module name="kylo-nifi-provenance-repo" />
+        <module name="kylo-nifi-provenance-repo-v1" />
+        <module name="kylo-nifi-provenance-repo-v1-nar" />
+        <module name="kylo-nifi-provenance-repo-v1.2" />
+        <module name="kylo-nifi-provenance-repo-v1.2-nar" />
+        <module name="kylo-nifi-rest-client-api" />
+        <module name="kylo-nifi-rest-client-v1" />
+        <module name="kylo-nifi-rest-client-v1.1" />
+        <module name="kylo-nifi-rest-client-v1.2" />
+        <module name="kylo-nifi-rest-common-api" />
+        <module name="kylo-nifi-rest-common-util" />
+        <module name="kylo-nifi-rest-model" />
+        <module name="kylo-nifi-security-api" />
+        <module name="kylo-nifi-security-v1" />
+        <module name="kylo-nifi-spark-processors" />
+        <module name="kylo-nifi-spark-service" />
+        <module name="kylo-nifi-spark-service-api" />
+        <module name="kylo-nifi-spark-service-v1-nar" />
+        <module name="kylo-nifi-spark-service-v1.2-nar" />
+        <module name="kylo-nifi-spark-v1-nar" />
+        <module name="kylo-nifi-spark-v1.2-nar" />
+        <module name="kylo-nifi-standard-services-nar" />
+        <module name="kylo-nifi-standard-services-v1.2-nar" />
+        <module name="kylo-oauth-server" />
+        <module name="kylo-operational-metadata-api" />
+        <module name="kylo-operational-metadata-integration-service" />
+        <module name="kylo-operational-metadata-jpa" />
+        <module name="kylo-operational-metadata-rest-model" />
+        <module name="kylo-precondition-api" />
+        <module name="kylo-precondition-default" />
+        <module name="kylo-ranger-rest-client" />
+        <module name="kylo-scheduler-api" />
+        <module name="kylo-scheduler-controller" />
+        <module name="kylo-scheduler-core" />
+        <module name="kylo-scheduler-quartz" />
+        <module name="kylo-scheduler-rest-model" />
+        <module name="kylo-schema-discovery-api" />
+        <module name="kylo-schema-discovery-controller" />
+        <module name="kylo-schema-discovery-default" />
+        <module name="kylo-schema-discovery-model2" />
+        <module name="kylo-schema-discovery-rdbms" />
+        <module name="kylo-search-api" />
+        <module name="kylo-search-elasticsearch" />
+        <module name="kylo-search-elasticsearch-rest" />
+        <module name="kylo-search-rest-model" />
+        <module name="kylo-search-solr" />
+        <module name="kylo-security-api" />
+        <module name="kylo-security-auth" />
+        <module name="kylo-security-auth-cache" />
+        <module name="kylo-security-auth-file" />
+        <module name="kylo-security-auth-kerberos" />
+        <module name="kylo-security-auth-kylo-groups" />
+        <module name="kylo-security-auth-kylo-local" />
+        <module name="kylo-security-auth-kylo-rest" />
+        <module name="kylo-security-auth-ldap" />
+        <module name="kylo-security-auth-simple" />
+        <module name="kylo-security-auth-spark" />
+        <module name="kylo-security-controller" />
+        <module name="kylo-security-rest-model" />
+        <module name="kylo-sentry-client" />
+        <module name="kylo-service-app" />
+        <module name="kylo-service-app-api" />
+        <module name="kylo-service-monitor-activemq" />
+        <module name="kylo-service-monitor-ambari" />
+        <module name="kylo-service-monitor-api" />
+        <module name="kylo-service-monitor-cloudera-service" />
+        <module name="kylo-service-monitor-cloudera-tba" />
+        <module name="kylo-service-monitor-controller" />
+        <module name="kylo-service-monitor-core" />
+        <module name="kylo-service-monitor-kylo-cluster" />
+        <module name="kylo-service-monitor-nifi" />
+        <module name="kylo-service-monitor-pipeline-db" />
+        <module name="kylo-service-monitor-service-api" />
+        <module name="kylo-sla-api" />
+        <module name="kylo-sla-core" />
+        <module name="kylo-sla-email" />
+        <module name="kylo-sla-jira" />
+        <module name="kylo-sla-metrics-default" />
+        <module name="kylo-sla-rest-model" />
+        <module name="kylo-spark-interpreter-app" />
+        <module name="kylo-spark-interpreter-spark-v1" />
+        <module name="kylo-spark-interpreter-spark-v2" />
+        <module name="kylo-spark-job-cleanup-app" />
+        <module name="kylo-spark-job-cleanup-spark-v1" />
+        <module name="kylo-spark-job-cleanup-spark-v2" />
+        <module name="kylo-spark-job-dataquality-app" />
+        <module name="kylo-spark-job-dataquality-spark-v1" />
+        <module name="kylo-spark-job-dataquality-spark-v2" />
+        <module name="kylo-spark-job-profiler-api" />
+        <module name="kylo-spark-job-profiler-app" />
+        <module name="kylo-spark-job-profiler-core" />
+        <module name="kylo-spark-job-profiler-model" />
+        <module name="kylo-spark-job-profiler-spark-v1" />
+        <module name="kylo-spark-job-profiler-spark-v2" />
+        <module name="kylo-spark-job-profiler-tests" />
+        <module name="kylo-spark-shell-api" />
+        <module name="kylo-spark-shell-client-app" />
+        <module name="kylo-spark-shell-client-v1" />
+        <module name="kylo-spark-shell-client-v2" />
+        <module name="kylo-spark-shell-controller" />
+        <module name="kylo-spark-shell-core" />
+        <module name="kylo-spark-shell-rest-model" />
+        <module name="kylo-spark-validate-cleanse-api" />
+        <module name="kylo-spark-validate-cleanse-app" />
+        <module name="kylo-spark-validate-cleanse-core" />
+        <module name="kylo-spark-validate-cleanse-model" />
+        <module name="kylo-spark-validate-cleanse-spark-v1" />
+        <module name="kylo-spark-validate-cleanse-spark-v2" />
+        <module name="kylo-swagger-ui" />
+        <module name="kylo-thrift-proxy-controller" />
+        <module name="kylo-thrift-proxy-core" />
+        <module name="kylo-ui-annotation-api" />
+        <module name="kylo-ui-annotation-core" />
+        <module name="kylo-ui-annotation-rest-model" />
+        <module name="kylo-ui-api" />
+        <module name="kylo-ui-app" />
+        <module name="kylo-ui-controller" />
+        <module name="kylo-ui-sqoop-table-data-processor-template" />
+        <module name="kylo-upgrade-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example-auth-custom" target="1.8" />
+      <module name="example-module" target="1.8" />
+      <module name="example-module-services" target="1.8" />
+      <module name="example-module-ui" target="1.8" />
+      <module name="example-ui-feed-stepper-plugin" target="1.8" />
+      <module name="example-ui-get-file-processor-template" target="1.8" />
+      <module name="kylo" target="1.8" />
+      <module name="kylo-alerts" target="1.8" />
+      <module name="kylo-alerts-api" target="1.8" />
+      <module name="kylo-alerts-controller" target="1.8" />
+      <module name="kylo-alerts-core" target="1.8" />
+      <module name="kylo-alerts-model" target="1.8" />
+      <module name="kylo-alerts-service" target="1.8" />
+      <module name="kylo-audit-logging-api" target="1.8" />
+      <module name="kylo-audit-logging-controller" target="1.8" />
+      <module name="kylo-audit-logging-core" target="1.8" />
+      <module name="kylo-audit-logging-jpa" target="1.8" />
+      <module name="kylo-audit-logging-rest-model" target="1.8" />
+      <module name="kylo-audit-logging-service" target="1.8" />
+      <module name="kylo-classname-change" target="1.8" />
+      <module name="kylo-classname-change-api" target="1.8" />
+      <module name="kylo-classname-change-core" target="1.8" />
+      <module name="kylo-cluster-manager" target="1.8" />
+      <module name="kylo-cluster-manager-api" target="1.8" />
+      <module name="kylo-cluster-manager-core" target="1.8" />
+      <module name="kylo-commons" target="1.8" />
+      <module name="kylo-commons-feed-util" target="1.8" />
+      <module name="kylo-commons-hive" target="1.7" />
+      <module name="kylo-commons-jdbc" target="1.7" />
+      <module name="kylo-commons-jpa" target="1.8" />
+      <module name="kylo-commons-rest-client" target="1.7" />
+      <module name="kylo-commons-rest-model" target="1.7" />
+      <module name="kylo-commons-scala-2.10" target="1.7" />
+      <module name="kylo-commons-scala-2.11" target="1.7" />
+      <module name="kylo-commons-scala-api" target="1.7" />
+      <module name="kylo-commons-security" target="1.7" />
+      <module name="kylo-commons-spark" target="1.8" />
+      <module name="kylo-commons-spark-1.6" target="1.7" />
+      <module name="kylo-commons-spark-2.0" target="1.7" />
+      <module name="kylo-commons-spark-api" target="1.7" />
+      <module name="kylo-commons-spark-repl" target="1.7" />
+      <module name="kylo-commons-spark-shell-api" target="1.7" />
+      <module name="kylo-commons-spark-shell-v1" target="1.7" />
+      <module name="kylo-commons-spark-shell-v2" target="1.7" />
+      <module name="kylo-commons-test" target="1.8" />
+      <module name="kylo-commons-test-persistence" target="1.8" />
+      <module name="kylo-commons-util" target="1.8" />
+      <module name="kylo-commons-velocity-api" target="1.8" />
+      <module name="kylo-commons-velocity-core" target="1.8" />
+      <module name="kylo-core" target="1.8" />
+      <module name="kylo-docs" target="1.8" />
+      <module name="kylo-feed-manager-api" target="1.8" />
+      <module name="kylo-feed-manager-controller" target="1.8" />
+      <module name="kylo-feed-manager-core" target="1.8" />
+      <module name="kylo-feed-manager-nifi-cache-api" target="1.8" />
+      <module name="kylo-feed-manager-precondition-policy" target="1.8" />
+      <module name="kylo-feed-manager-precondition-rest-model" target="1.8" />
+      <module name="kylo-feed-manager-rest-model" target="1.8" />
+      <module name="kylo-feed-manager-service" target="1.8" />
+      <module name="kylo-feed-manager-service-api" target="1.8" />
+      <module name="kylo-field-policy" target="1.7" />
+      <module name="kylo-field-policy-api" target="1.7" />
+      <module name="kylo-field-policy-controller" target="1.7" />
+      <module name="kylo-field-policy-core" target="1.7" />
+      <module name="kylo-field-policy-default" target="1.7" />
+      <module name="kylo-field-policy-rest-model" target="1.7" />
+      <module name="kylo-field-policy-service" target="1.7" />
+      <module name="kylo-hadoop-authorization" target="1.8" />
+      <module name="kylo-hadoop-authorization-api" target="1.8" />
+      <module name="kylo-hadoop-authorization-core" target="1.8" />
+      <module name="kylo-hadoop-authorization-ranger" target="1.8" />
+      <module name="kylo-hadoop-authorization-ranger-default" target="1.8" />
+      <module name="kylo-hadoop-authorization-sentry" target="1.8" />
+      <module name="kylo-hadoop-authorization-sentry-default" target="1.8" />
+      <module name="kylo-input-format" target="1.7" />
+      <module name="kylo-input-format-omniture" target="1.7" />
+      <module name="kylo-install" target="1.8" />
+      <module name="kylo-install-debian" target="1.8" />
+      <module name="kylo-install-rpm" target="1.8" />
+      <module name="kylo-install-tar" target="1.8" />
+      <module name="kylo-integrations" target="1.8" />
+      <module name="kylo-jira" target="1.8" />
+      <module name="kylo-jira-rest-client" target="1.8" />
+      <module name="kylo-jms-service" target="1.8" />
+      <module name="kylo-jms-service-activemq" target="1.8" />
+      <module name="kylo-jms-service-amazon-sqs" target="1.8" />
+      <module name="kylo-jms-service-api" target="1.8" />
+      <module name="kylo-job-repository" target="1.8" />
+      <module name="kylo-job-repository-api" target="1.8" />
+      <module name="kylo-job-repository-controller" target="1.8" />
+      <module name="kylo-job-repository-core" target="1.8" />
+      <module name="kylo-job-repository-rest-model" target="1.8" />
+      <module name="kylo-job-repository-service" target="1.8" />
+      <module name="kylo-kerberos" target="1.8" />
+      <module name="kylo-kerberos-core" target="1.7" />
+      <module name="kylo-kerberos-test-client" target="1.7" />
+      <module name="kylo-metadata" target="1.8" />
+      <module name="kylo-metadata-api" target="1.8" />
+      <module name="kylo-metadata-core" target="1.8" />
+      <module name="kylo-metadata-jms" target="1.8" />
+      <module name="kylo-metadata-modeshape" target="1.8" />
+      <module name="kylo-metadata-persistence" target="1.8" />
+      <module name="kylo-metadata-rest-client-spring" target="1.8" />
+      <module name="kylo-metadata-rest-controller" target="1.8" />
+      <module name="kylo-metadata-rest-model" target="1.8" />
+      <module name="kylo-metadata-service" target="1.8" />
+      <module name="kylo-metadata-service-api" target="1.7" />
+      <module name="kylo-nifi" target="1.8" />
+      <module name="kylo-nifi-core-bundle" target="1.8" />
+      <module name="kylo-nifi-core-processors" target="1.8" />
+      <module name="kylo-nifi-core-service" target="1.8" />
+      <module name="kylo-nifi-core-service-api" target="1.8" />
+      <module name="kylo-nifi-core-service-bundle" target="1.8" />
+      <module name="kylo-nifi-core-service-nar" target="1.8" />
+      <module name="kylo-nifi-core-service-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-core-v1-nar" target="1.8" />
+      <module name="kylo-nifi-core-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-elasticsearch-bundle" target="1.8" />
+      <module name="kylo-nifi-elasticsearch-processors" target="1.8" />
+      <module name="kylo-nifi-elasticsearch-v1-nar" target="1.8" />
+      <module name="kylo-nifi-flow-visitor-model" target="1.8" />
+      <module name="kylo-nifi-framework" target="1.8" />
+      <module name="kylo-nifi-framework-api" target="1.8" />
+      <module name="kylo-nifi-framework-v1" target="1.8" />
+      <module name="kylo-nifi-hadoop-bundle" target="1.8" />
+      <module name="kylo-nifi-hadoop-processors" target="1.8" />
+      <module name="kylo-nifi-hadoop-service" target="1.8" />
+      <module name="kylo-nifi-hadoop-service-api" target="1.8" />
+      <module name="kylo-nifi-hadoop-service-bundle" target="1.8" />
+      <module name="kylo-nifi-hadoop-service-v1-nar" target="1.8" />
+      <module name="kylo-nifi-hadoop-service-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-hadoop-v1-nar" target="1.8" />
+      <module name="kylo-nifi-hadoop-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-merge-table-processor-v1" target="1.8" />
+      <module name="kylo-nifi-merge-table-processor-v1.2" target="1.8" />
+      <module name="kylo-nifi-nar-bundles" target="1.8" />
+      <module name="kylo-nifi-provenance-constants" target="1.8" />
+      <module name="kylo-nifi-provenance-model" target="1.8" />
+      <module name="kylo-nifi-provenance-repo" target="1.8" />
+      <module name="kylo-nifi-provenance-repo-bundle" target="1.8" />
+      <module name="kylo-nifi-provenance-repo-v1" target="1.8" />
+      <module name="kylo-nifi-provenance-repo-v1-nar" target="1.8" />
+      <module name="kylo-nifi-provenance-repo-v1.2" target="1.8" />
+      <module name="kylo-nifi-provenance-repo-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-rest" target="1.8" />
+      <module name="kylo-nifi-rest-client" target="1.8" />
+      <module name="kylo-nifi-rest-client-api" target="1.8" />
+      <module name="kylo-nifi-rest-client-v1" target="1.8" />
+      <module name="kylo-nifi-rest-client-v1.1" target="1.8" />
+      <module name="kylo-nifi-rest-client-v1.2" target="1.8" />
+      <module name="kylo-nifi-rest-common-api" target="1.8" />
+      <module name="kylo-nifi-rest-common-util" target="1.8" />
+      <module name="kylo-nifi-rest-model" target="1.8" />
+      <module name="kylo-nifi-security" target="1.8" />
+      <module name="kylo-nifi-security-api" target="1.8" />
+      <module name="kylo-nifi-security-v1" target="1.8" />
+      <module name="kylo-nifi-spark-bundle" target="1.8" />
+      <module name="kylo-nifi-spark-processors" target="1.8" />
+      <module name="kylo-nifi-spark-service" target="1.8" />
+      <module name="kylo-nifi-spark-service-api" target="1.8" />
+      <module name="kylo-nifi-spark-service-bundle" target="1.8" />
+      <module name="kylo-nifi-spark-service-v1-nar" target="1.8" />
+      <module name="kylo-nifi-spark-service-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-spark-v1-nar" target="1.8" />
+      <module name="kylo-nifi-spark-v1.2-nar" target="1.8" />
+      <module name="kylo-nifi-standard-services" target="1.8" />
+      <module name="kylo-nifi-standard-services-nar" target="1.8" />
+      <module name="kylo-nifi-standard-services-v1.2-nar" target="1.8" />
+      <module name="kylo-oauth-server" target="1.8" />
+      <module name="kylo-operational-metadata" target="1.8" />
+      <module name="kylo-operational-metadata-api" target="1.8" />
+      <module name="kylo-operational-metadata-integration-service" target="1.8" />
+      <module name="kylo-operational-metadata-jpa" target="1.8" />
+      <module name="kylo-operational-metadata-rest-model" target="1.8" />
+      <module name="kylo-operational-metadata-service" target="1.8" />
+      <module name="kylo-plugins" target="1.8" />
+      <module name="kylo-precondition" target="1.8" />
+      <module name="kylo-precondition-api" target="1.8" />
+      <module name="kylo-precondition-default" target="1.8" />
+      <module name="kylo-ranger-rest-client" target="1.8" />
+      <module name="kylo-release" target="1.8" />
+      <module name="kylo-samples" target="1.8" />
+      <module name="kylo-samples-plugins" target="1.8" />
+      <module name="kylo-scheduler" target="1.8" />
+      <module name="kylo-scheduler-api" target="1.8" />
+      <module name="kylo-scheduler-controller" target="1.8" />
+      <module name="kylo-scheduler-core" target="1.8" />
+      <module name="kylo-scheduler-quartz" target="1.8" />
+      <module name="kylo-scheduler-rest-model" target="1.8" />
+      <module name="kylo-schema-discovery" target="1.8" />
+      <module name="kylo-schema-discovery-api" target="1.7" />
+      <module name="kylo-schema-discovery-controller" target="1.8" />
+      <module name="kylo-schema-discovery-default" target="1.8" />
+      <module name="kylo-schema-discovery-model2" target="1.7" />
+      <module name="kylo-schema-discovery-rdbms" target="1.7" />
+      <module name="kylo-schema-discovery-service" target="1.8" />
+      <module name="kylo-search" target="1.8" />
+      <module name="kylo-search-api" target="1.8" />
+      <module name="kylo-search-elasticsearch" target="1.8" />
+      <module name="kylo-search-elasticsearch-rest" target="1.8" />
+      <module name="kylo-search-rest-model" target="1.8" />
+      <module name="kylo-search-solr" target="1.8" />
+      <module name="kylo-security" target="1.8" />
+      <module name="kylo-security-api" target="1.8" />
+      <module name="kylo-security-auth" target="1.8" />
+      <module name="kylo-security-auth-cache" target="1.8" />
+      <module name="kylo-security-auth-file" target="1.8" />
+      <module name="kylo-security-auth-kerberos" target="1.8" />
+      <module name="kylo-security-auth-kylo-groups" target="1.8" />
+      <module name="kylo-security-auth-kylo-local" target="1.8" />
+      <module name="kylo-security-auth-kylo-rest" target="1.8" />
+      <module name="kylo-security-auth-ldap" target="1.8" />
+      <module name="kylo-security-auth-simple" target="1.8" />
+      <module name="kylo-security-auth-spark" target="1.8" />
+      <module name="kylo-security-controller" target="1.8" />
+      <module name="kylo-security-rest-model" target="1.8" />
+      <module name="kylo-security-service" target="1.8" />
+      <module name="kylo-sentry-client" target="1.8" />
+      <module name="kylo-service-app" target="1.8" />
+      <module name="kylo-service-app-api" target="1.8" />
+      <module name="kylo-service-monitor" target="1.8" />
+      <module name="kylo-service-monitor-activemq" target="1.8" />
+      <module name="kylo-service-monitor-ambari" target="1.8" />
+      <module name="kylo-service-monitor-api" target="1.8" />
+      <module name="kylo-service-monitor-cloudera" target="1.8" />
+      <module name="kylo-service-monitor-cloudera-service" target="1.8" />
+      <module name="kylo-service-monitor-cloudera-tba" target="1.8" />
+      <module name="kylo-service-monitor-controller" target="1.8" />
+      <module name="kylo-service-monitor-core" target="1.8" />
+      <module name="kylo-service-monitor-kylo-cluster" target="1.8" />
+      <module name="kylo-service-monitor-nifi" target="1.8" />
+      <module name="kylo-service-monitor-pipeline-db" target="1.8" />
+      <module name="kylo-service-monitor-service" target="1.8" />
+      <module name="kylo-service-monitor-service-api" target="1.8" />
+      <module name="kylo-services" target="1.8" />
+      <module name="kylo-sla" target="1.8" />
+      <module name="kylo-sla-api" target="1.8" />
+      <module name="kylo-sla-core" target="1.8" />
+      <module name="kylo-sla-email" target="1.8" />
+      <module name="kylo-sla-jira" target="1.8" />
+      <module name="kylo-sla-metrics-default" target="1.8" />
+      <module name="kylo-sla-rest-model" target="1.8" />
+      <module name="kylo-spark" target="1.7" />
+      <module name="kylo-spark-interpreter" target="1.7" />
+      <module name="kylo-spark-interpreter-app" target="1.7" />
+      <module name="kylo-spark-interpreter-spark-v1" target="1.7" />
+      <module name="kylo-spark-interpreter-spark-v2" target="1.7" />
+      <module name="kylo-spark-job-cleanup" target="1.7" />
+      <module name="kylo-spark-job-cleanup-app" target="1.7" />
+      <module name="kylo-spark-job-cleanup-spark-v1" target="1.7" />
+      <module name="kylo-spark-job-cleanup-spark-v2" target="1.7" />
+      <module name="kylo-spark-job-dataquality" target="1.7" />
+      <module name="kylo-spark-job-dataquality-app" target="1.7" />
+      <module name="kylo-spark-job-dataquality-spark-v1" target="1.7" />
+      <module name="kylo-spark-job-dataquality-spark-v2" target="1.7" />
+      <module name="kylo-spark-job-profiler" target="1.7" />
+      <module name="kylo-spark-job-profiler-api" target="1.7" />
+      <module name="kylo-spark-job-profiler-app" target="1.7" />
+      <module name="kylo-spark-job-profiler-core" target="1.7" />
+      <module name="kylo-spark-job-profiler-model" target="1.7" />
+      <module name="kylo-spark-job-profiler-spark-v1" target="1.7" />
+      <module name="kylo-spark-job-profiler-spark-v2" target="1.7" />
+      <module name="kylo-spark-job-profiler-tests" target="1.7" />
+      <module name="kylo-spark-shell-api" target="1.8" />
+      <module name="kylo-spark-shell-client" target="1.7" />
+      <module name="kylo-spark-shell-client-app" target="1.7" />
+      <module name="kylo-spark-shell-client-v1" target="1.7" />
+      <module name="kylo-spark-shell-client-v2" target="1.7" />
+      <module name="kylo-spark-shell-controller" target="1.8" />
+      <module name="kylo-spark-shell-core" target="1.8" />
+      <module name="kylo-spark-shell-rest-model" target="1.7" />
+      <module name="kylo-spark-shell-service" target="1.8" />
+      <module name="kylo-spark-validate-cleanse" target="1.7" />
+      <module name="kylo-spark-validate-cleanse-api" target="1.7" />
+      <module name="kylo-spark-validate-cleanse-app" target="1.7" />
+      <module name="kylo-spark-validate-cleanse-core" target="1.7" />
+      <module name="kylo-spark-validate-cleanse-model" target="1.7" />
+      <module name="kylo-spark-validate-cleanse-spark-v1" target="1.7" />
+      <module name="kylo-spark-validate-cleanse-spark-v2" target="1.7" />
+      <module name="kylo-swagger-ui" target="1.8" />
+      <module name="kylo-thrift-proxy" target="1.8" />
+      <module name="kylo-thrift-proxy-controller" target="1.8" />
+      <module name="kylo-thrift-proxy-core" target="1.8" />
+      <module name="kylo-ui" target="1.8" />
+      <module name="kylo-ui-annotation" target="1.7" />
+      <module name="kylo-ui-annotation-api" target="1.7" />
+      <module name="kylo-ui-annotation-core" target="1.7" />
+      <module name="kylo-ui-annotation-rest-model" target="1.7" />
+      <module name="kylo-ui-api" target="1.8" />
+      <module name="kylo-ui-app" target="1.8" />
+      <module name="kylo-ui-controller" target="1.8" />
+      <module name="kylo-ui-sqoop-table-data-processor-template" target="1.8" />
+      <module name="kylo-upgrade-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

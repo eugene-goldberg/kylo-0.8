@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd0d2179-a7a8-4f8f-b5a4-658addedffef" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-provenance-repo-bundle/nifi-provenance-repo-v1.2/target/" />
+    <ignored path="$PROJECT_DIR$/services/spark-shell-service/spark-shell-api/target/" />
+    <ignored path="$PROJECT_DIR$/core/service-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-provenance-model/target/" />
+    <ignored path="$PROJECT_DIR$/core/hadoop-authorization/target/" />
+    <ignored path="$PROJECT_DIR$/services/metadata-service/metadata-rest-client-spring/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/ui-sqoop-table-data-processor-template/target/" />
+    <ignored path="$PROJECT_DIR$/core/kerberos/kerberos-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-provenance-constants/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-provenance-repo-bundle/nifi-provenance-repo/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-common-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/job-repository-service/job-repository-controller/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/jira/target/" />
+    <ignored path="$PROJECT_DIR$/ui/ui-api/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/jms-service-activemq/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-hive/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-kylo-groups/target/" />
+    <ignored path="$PROJECT_DIR$/services/metadata-service/metadata-rest-controller/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-shell-client/spark-shell-client-app/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-client/nifi-rest-client-v1.1/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/spark-validate-cleanse-core/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-shell-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-provenance-repo-bundle/nifi-provenance-repo-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-elasticsearch-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/core/schema-discovery/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/hadoop-authorization-ranger-default/target/" />
+    <ignored path="$PROJECT_DIR$/services/security-service/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-interpreter/spark-interpreter-spark-v2/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-hadoop-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-security/nifi-security-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-core-bundle/nifi-merge-table-processor-v1.2/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-core-service-bundle/nifi-core-service-nar/target/" />
+    <ignored path="$PROJECT_DIR$/core/precondition/precondition-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-core-bundle/nifi-core-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-precondition-policy-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/example-module/example-module-services/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/hadoop-authorization-sentry-default/hadoop-authorization-sentry/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/sla-email/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-cleanup/spark-job-cleanup-app/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-core-bundle/nifi-core-processors/target/" />
+    <ignored path="$PROJECT_DIR$/core/alerts/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-rest-client/target/" />
+    <ignored path="$PROJECT_DIR$/services/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/hadoop-authorization-ranger-default/hadoop-authorization-ranger/target/" />
+    <ignored path="$PROJECT_DIR$/core/search/search-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/services/job-repository-service/job-repository-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-scala-2.11/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/hadoop-authorization-sentry-default/target/" />
+    <ignored path="$PROJECT_DIR$/core/classname-change/classname-change-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/audit-logging-service/target/" />
+    <ignored path="$PROJECT_DIR$/ui/swagger-ui/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-controller/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-2.0/target/" />
+    <ignored path="$PROJECT_DIR$/security/oauth-server/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/search-elasticsearch-rest/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-core-service-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/services/service-app/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/spark-validate-cleanse-spark-v1/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-nifi-cache-api/target/" />
+    <ignored path="$PROJECT_DIR$/core/field-policy/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/hadoop-authorization-sentry-default/sentry-client/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-spark-bundle/nifi-spark-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-cleanup/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/spark-validate-cleanse-spark-v2/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-dataquality/spark-job-dataquality-spark-v2/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/search-elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/ui/ui-controller/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/services/scheduler-service/scheduler-core/target/" />
+    <ignored path="$PROJECT_DIR$/core/sla/sla-api/target/" />
+    <ignored path="$PROJECT_DIR$/metadata/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-dataquality/spark-job-dataquality-app/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-repl/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-velocity-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-spark-bundle/nifi-spark-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-framework/nifi-framework-v1/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/sla-jira/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-nifi/target/" />
+    <ignored path="$PROJECT_DIR$/core/operational-metadata/target/" />
+    <ignored path="$PROJECT_DIR$/core/sla/sla-core/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-kerberos/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-core-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-flow-visitor-model/target/" />
+    <ignored path="$PROJECT_DIR$/services/operational-metadata-service/target/" />
+    <ignored path="$PROJECT_DIR$/core/precondition/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-precondition-policy/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-spark-service-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/core/cluster-manager/cluster-manager-api/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth/target/" />
+    <ignored path="$PROJECT_DIR$/services/job-repository-service/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/example-ui-get-file-processor-template/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-spark-bundle/nifi-spark-processors/target/" />
+    <ignored path="$PROJECT_DIR$/services/field-policy-service/field-policy-controller/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-ambari/target/" />
+    <ignored path="$PROJECT_DIR$/services/service-monitor-service/service-monitor-controller/target/" />
+    <ignored path="$PROJECT_DIR$/services/scheduler-service/scheduler-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/spark-validate-cleanse-api/target/" />
+    <ignored path="$PROJECT_DIR$/core/search/search-api/target/" />
+    <ignored path="$PROJECT_DIR$/core/cluster-manager/target/" />
+    <ignored path="$PROJECT_DIR$/core/sla/sla-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/services/metadata-service/metadata-jms/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-cache/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-provenance-repo-bundle/nifi-provenance-repo-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/core/job-repository/job-repository-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-client/nifi-rest-client-api/target/" />
+    <ignored path="$PROJECT_DIR$/metadata/metadata-core/target/" />
+    <ignored path="$PROJECT_DIR$/core/job-repository/target/" />
+    <ignored path="$PROJECT_DIR$/services/spark-shell-service/spark-shell-controller/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-client/target/" />
+    <ignored path="$PROJECT_DIR$/services/scheduler-service/scheduler-controller/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/schema-discovery-default/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-test/target/" />
+    <ignored path="$PROJECT_DIR$/core/sla/target/" />
+    <ignored path="$PROJECT_DIR$/release/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/sla-metrics-default/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-cleanup/spark-job-cleanup-spark-v2/target/" />
+    <ignored path="$PROJECT_DIR$/core/cluster-manager/cluster-manager-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/spark-validate-cleanse-app/target/" />
+    <ignored path="$PROJECT_DIR$/core/hadoop-authorization/hadoop-authorization-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-hadoop-bundle/nifi-hadoop-bundle-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/services/alerts-service/alerts-controller/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-model/target/" />
+    <ignored path="$PROJECT_DIR$/core/service-monitor/service-monitor-core/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/precondition-default/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-core-bundle/nifi-merge-table-processor-v1/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-scala-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/operational-metadata-service/operational-metadata-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/core/ui-annotation/ui-annotation-core/target/" />
+    <ignored path="$PROJECT_DIR$/security/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-core/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/metadata-service/metadata-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-util/target/" />
+    <ignored path="$PROJECT_DIR$/core/operational-metadata/operational-metadata-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/services/alerts-service/alerts-model/target/" />
+    <ignored path="$PROJECT_DIR$/core/schema-discovery/schema-discovery-rdbms/target/" />
+    <ignored path="$PROJECT_DIR$/services/field-policy-service/field-policy-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/core/classname-change/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-spark-service-bundle/nifi-spark-service-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-framework/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-spark-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/example-module/example-module-ui/target/" />
+    <ignored path="$PROJECT_DIR$/commons/target/" />
+    <ignored path="$PROJECT_DIR$/core/job-repository/job-repository-api/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/target/" />
+    <ignored path="$PROJECT_DIR$/metadata/metadata-api/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-cloudera/target/" />
+    <ignored path="$PROJECT_DIR$/services/scheduler-service/scheduler-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-shell-v2/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/target/" />
+    <ignored path="$PROJECT_DIR$/services/field-policy-service/target/" />
+    <ignored path="$PROJECT_DIR$/core/alerts/alerts-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/services/spark-shell-service/spark-shell-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-ldap/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/search-solr/target/" />
+    <ignored path="$PROJECT_DIR$/metadata/metadata-modeshape/target/" />
+    <ignored path="$PROJECT_DIR$/services/audit-logging-service/audit-logging-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-interpreter/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-client/nifi-rest-client-v1/target/" />
+    <ignored path="$PROJECT_DIR$/docs/target/" />
+    <ignored path="$PROJECT_DIR$/services/security-service/security-controller/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-hadoop-service-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-provenance-repo-bundle/nifi-provenance-repo-v1/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-spark-v2/target/" />
+    <ignored path="$PROJECT_DIR$/services/scheduler-service/scheduler-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-security/target/" />
+    <ignored path="$PROJECT_DIR$/core/hadoop-authorization/hadoop-authorization-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/jira/jira-rest-client/target/" />
+    <ignored path="$PROJECT_DIR$/services/upgrade-service/target/" />
+    <ignored path="$PROJECT_DIR$/core/operational-metadata/operational-metadata-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/alerts-service/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-simple/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-spark-v1/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-shell-client/spark-shell-client-v2/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-test-persistence/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-spark-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/services/metadata-service/metadata-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/ui/ui-app/target/" />
+    <ignored path="$PROJECT_DIR$/core/kerberos/kerberos-test-client/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-nar/target/" />
+    <ignored path="$PROJECT_DIR$/install/install-tar/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/example-ui-feed-stepper-plugin/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-cloudera/service-monitor-cloudera-service/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-app/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-elasticsearch-bundle/nifi-elasticsearch-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/services/audit-logging-service/audit-logging-controller/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-interpreter/spark-interpreter-spark-v1/target/" />
+    <ignored path="$PROJECT_DIR$/metadata/metadata-persistence/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-dataquality/spark-job-dataquality-spark-v1/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-shell-v1/target/" />
+    <ignored path="$PROJECT_DIR$/services/audit-logging-service/audit-logging-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-spark-service-bundle/nifi-spark-service/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-framework/nifi-framework-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/service-app-api/target/" />
+    <ignored path="$PROJECT_DIR$/core/classname-change/classname-change-core/target/" />
+    <ignored path="$PROJECT_DIR$/core/alerts/alerts-core/target/" />
+    <ignored path="$PROJECT_DIR$/services/thrift-proxy-service/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/core/kerberos/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-provenance-repo-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-hadoop-bundle/nifi-hadoop-bundle-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-spark/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-kylo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-velocity-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-hadoop-bundle/nifi-hadoop-processors/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-feed-util/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-spark-service-bundle/nifi-spark-service-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/example-module/target/" />
+    <ignored path="$PROJECT_DIR$/core/field-policy/field-policy-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/feed-manager-service/feed-manager-api/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-activemq/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-hadoop-service-bundle/nifi-hadoop-service-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-security/target/" />
+    <ignored path="$PROJECT_DIR$/services/schema-discovery-service/schema-discovery-model/target/" />
+    <ignored path="$PROJECT_DIR$/services/service-monitor-service/service-monitor-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-kylo-local/target/" />
+    <ignored path="$PROJECT_DIR$/services/security-service/security-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/jms-service-amazon-sqs/target/" />
+    <ignored path="$PROJECT_DIR$/services/spark-shell-service/spark-shell-core/target/" />
+    <ignored path="$PROJECT_DIR$/services/schema-discovery-service/schema-discovery-controller/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-pipeline-db/target/" />
+    <ignored path="$PROJECT_DIR$/samples/plugins/example-auth-custom/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-core-service-bundle/nifi-core-service-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-dataquality/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-hadoop-service-bundle/nifi-hadoop-service-v1-nar/target/" />
+    <ignored path="$PROJECT_DIR$/core/ui-annotation/ui-annotation-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/services/thrift-proxy-service/thrift-proxy-controller/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-tests/target/" />
+    <ignored path="$PROJECT_DIR$/services/spark-shell-service/target/" />
+    <ignored path="$PROJECT_DIR$/services/audit-logging-service/audit-logging-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/input-format/target/" />
+    <ignored path="$PROJECT_DIR$/services/scheduler-service/target/" />
+    <ignored path="$PROJECT_DIR$/core/service-monitor/service-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-spark-1.6/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-core-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-hadoop-service-bundle/nifi-hadoop-service/target/" />
+    <ignored path="$PROJECT_DIR$/core/search/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-hadoop-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/input-format/input-format-omniture/target/" />
+    <ignored path="$PROJECT_DIR$/install/install-debian/target/" />
+    <ignored path="$PROJECT_DIR$/services/operational-metadata-service/operational-metadata-integration-service/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/nifi-core-service-bundle/nifi-core-service/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/hadoop-authorization-ranger-default/ranger-rest-client/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-rest/nifi-rest-client/nifi-rest-client-v1.2/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-rest-model/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/schema-discovery-service/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/field-policy-default/target/" />
+    <ignored path="$PROJECT_DIR$/ui/target/" />
+    <ignored path="$PROJECT_DIR$/core/ui-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/install/target/" />
+    <ignored path="$PROJECT_DIR$/services/metadata-service/target/" />
+    <ignored path="$PROJECT_DIR$/samples/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-elasticsearch-bundle/nifi-elasticsearch-processors/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-core-bundle/nifi-core-v1.2-nar/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-profiler/spark-job-profiler-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-validate-cleanse/spark-validate-cleanse-model/target/" />
+    <ignored path="$PROJECT_DIR$/services/service-monitor-service/target/" />
+    <ignored path="$PROJECT_DIR$/core/target/" />
+    <ignored path="$PROJECT_DIR$/commons/commons-spark/commons-scala-2.10/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-file/target/" />
+    <ignored path="$PROJECT_DIR$/services/jms-service/target/" />
+    <ignored path="$PROJECT_DIR$/services/field-policy-service/field-policy-core/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-interpreter/spark-interpreter-app/target/" />
+    <ignored path="$PROJECT_DIR$/install/install-rpm/target/" />
+    <ignored path="$PROJECT_DIR$/core/ui-annotation/ui-annotation-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-shell-client/spark-shell-client-v1/target/" />
+    <ignored path="$PROJECT_DIR$/services/jms-service/jms-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-shell-client/target/" />
+    <ignored path="$PROJECT_DIR$/plugins/service-monitor-cloudera/service-monitor-cloudera-tba/target/" />
+    <ignored path="$PROJECT_DIR$/core/schema-discovery/schema-discovery-api/target/" />
+    <ignored path="$PROJECT_DIR$/services/thrift-proxy-service/thrift-proxy-core/target/" />
+    <ignored path="$PROJECT_DIR$/security/security-auth-kylo-rest/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/spark/spark-job-cleanup/spark-job-cleanup-spark-v1/target/" />
+    <ignored path="$PROJECT_DIR$/services/audit-logging-service/audit-logging-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-security/nifi-security-v1/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/nifi/nifi-nar-bundles/nifi-standard-services/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ClouderaClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/service-monitor-cloudera/service-monitor-cloudera-service/src/main/java/com/thinkbiganalytics/servicemonitor/rest/client/cdh/ClouderaClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="923" column="17" lean-forward="false" selection-start-line="923" selection-start-column="17" selection-end-line="923" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cloudera</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="137" />
+    <option name="y" value="75" />
+    <option name="width" value="1171" />
+    <option name="height" value="758" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kylo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kylo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kylo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kylo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd0d2179-a7a8-4f8f-b5a4-658addedffef" name="Default" comment="" />
+      <created>1514736894602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514736894602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="137" y="75" width="1171" height="758" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56586826" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24977857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugins/service-monitor-cloudera/service-monitor-cloudera-service/src/main/java/com/thinkbiganalytics/servicemonitor/rest/client/cdh/ClouderaClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/service-monitor-cloudera/service-monitor-cloudera-service/src/main/java/com/thinkbiganalytics/servicemonitor/check/ClouderaServicesStatusCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="923" column="17" lean-forward="false" selection-start-line="923" selection-start-column="17" selection-end-line="923" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
